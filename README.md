@@ -44,9 +44,15 @@ fairseq-generate ${databin_dir} \
 
 ## Citation
 ```bibtex
-@article{deguchi2020neural,
+@inproceedings{deguchi2020neural,
   title={同期注意制約を与えた Transformer によるニューラル機械翻訳},
-  author={出口 祥之 and 田村 晃裕 and 二宮 崇},
-  journal={https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/A6-1.pdf},
+  author={
+    出口, 祥之 and 
+    田村, 晃裕 and 
+    二宮, 崇
+  },
+  booktitle={言語処理学会 第26回年次大会 発表論文集}
+  url={https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/A6-1.pdf},
   year={2020}
+}
 ```
