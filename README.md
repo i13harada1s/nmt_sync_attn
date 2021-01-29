@@ -1,4 +1,3 @@
-# 同期注意制約を与えた Transformer によるニューラル機械翻訳 (出口, 2020)
 # Neural Machine Translation by Transformer with Synchronous Attention Constraint (Deguchi et. al., 2020)
 
 ## Introduction
